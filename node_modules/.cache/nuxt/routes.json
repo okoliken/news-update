@@ -1,0 +1,16 @@
+[
+  {
+    "name": "search-for-news",
+    "path": "/search-for-news",
+    "component": "/Users/user/Desktop/news-update/pages/search-for-news.vue",
+    "chunkName": "pages/search-for-news",
+    "_name": "_4b174006"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/user/Desktop/news-update/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_307b8708"
+  }
+]

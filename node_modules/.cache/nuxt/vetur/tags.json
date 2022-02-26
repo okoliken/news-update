@@ -1,0 +1,20 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "BackToTop": {
+    "description": "Auto imported from components/back-to-top.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "NewsArticle": {
+    "description": "Auto imported from components/news-article.vue"
+  }
+}
