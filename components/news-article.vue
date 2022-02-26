@@ -37,7 +37,7 @@
       </v-list-item>
 
       <v-card-actions>
-        <v-btn color="primary" rounded :href="content.url"> Learn More </v-btn>
+        <v-btn color="primary" rounded :href="content.url"> Read More </v-btn>
       </v-card-actions>
     </v-card>
   </span>

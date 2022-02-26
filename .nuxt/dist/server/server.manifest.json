@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/back-to-top.js": "components/back-to-top.js",
+    "components/news-article.js": "components/news-article.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "components/vuetify-logo.js": "components/vuetify-logo.js",
+    "pages/index.js": "pages/index.js",
+    "pages/search-for-news.js": "pages/search-for-news.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/back-to-top.js": "components/back-to-top.js.map",
+    "components/news-article.js": "components/news-article.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "components/vuetify-logo.js": "components/vuetify-logo.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/search-for-news.js": "pages/search-for-news.js.map",
+    "server.js": "server.js.map"
+  }
+}
